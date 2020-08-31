@@ -17,7 +17,8 @@ Initialize the bisection method for this function by providing the function and 
   
 Access each method by providing a tolerance and in the case of the bisect method, some optional functionality.
 
-  > my_bisection.bisect(False, True, tol=10**-9)
+  >>> my_bisection.bisect(False, True, tol=10**-9)
+  
   > my_bisect.n_iter(tol=.001)
   
   
