@@ -22,7 +22,7 @@ Access each method by providing a tolerance and in the case of the bisect method
   > my_bisect.n_iter(tol=.001)
   
   > my_bisect.n_iter(.000000000000000000000000000000001)
-      109.62362713128296 Iterations 
+      >109.62362713128296 Iterations 
   
   
   # Sources 
